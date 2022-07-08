@@ -5,32 +5,32 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6285828764046'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6282362285077'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6282362285077','6285814772390'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6282362285077','6285814772390'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
-global.numberowner = '6285828377610' //ganti pakai nomor mu
-global.instagram = 'https://instagram.com/zalfapontianak' //ganti pakai Instagram mu
-global.github = 'https://github.com/Botynyakamu' //ganti aja pakai githubmu
-global.tt = 'https://vt.tiktok.com/ZSdc6Dht6/' //ganti aja pakai tiktok mu
-global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
-global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
-global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
+global.nameowner = 'ᴹᴿ᭄ Juviann꧂'
+global.numberowner = '6282362285077' //ganti pakai nomor mu
+global.instagram = 'https://instagram.com/tarunatam00' //ganti pakai Instagram mu
+global.github = 'https://github.com/gatauahahdujd' //ganti aja pakai githubmu
+global.tt = 'https://tiktok.com/@juvfarel/' //ganti aja pakai tiktok mu
+global.sc = 'https://youtube.com/channel/UCL-1ccm0on-hBuh2GWLaZRA' //jngn ganti hargai creator
+global.ss = 'https://youtube.com/channel/UCL-1ccm0on-hBuh2GWLaZRA' //jngn ganti hargai creator
+global.sss = 'https://youtube.com/channel/UCL-1ccm0on-hBuh2GWLaZRA' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '085828764046' //ganti pakai nomor dana mu
-global.pulsa = '085828764046' //ganti pakai nomor pulsa mu
-global.gopay = '085828764046' //ganti pakai nomor Gopay mu
+global.dana = '082362285077' //ganti pakai nomor dana mu
+global.pulsa = '082362285077' //ganti pakai nomor pulsa mu
+global.gopay = '082362285077' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv' //ganti pakai grup mu
-global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/zalfapontianak' //ganti pakai Instagram mu
-global.saweria = 'https://saweria.co/zifabotz123' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/6285787476829' //ganti jadi nomor mu
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
+global.namebot = '❋ཻུ۪۪⸙VIANN-MD⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
+global.gc = 'https://chat.whatsapp.com/FvVp4ePuehu56rzaUOgNiZ' //ganti pakai grup mu
+global.web = 'https://chat.whatsapp.com/FvVp4ePuehu56rzaUOgNiZ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://chat.whatsapp.com/FvVp4ePuehu56rzaUOgNiZ' //ganti pakai Instagram mu
+global.saweria = 'https://saweria.co/juvian' //bebas ganti aja pakai apa
+global.nomer = 'https://wa.me/6282362285077' //ganti jadi nomor mu
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 100.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 120.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 50.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
@@ -46,8 +46,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ rozi 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Juviann꧅'
+global.wm3 = 'ᯤ Juviann 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Zifabotz'
-global.author = '@rozi'
+global.packname = 'VIANNBOT'
+global.author = '@Juviann'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
